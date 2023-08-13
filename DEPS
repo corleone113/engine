@@ -257,7 +257,7 @@ allowed_hosts = [
 ]
 
 deps = {
-  'src': 'git@github.com:corleone113/buildroot.git' + '@' + 'ff895efed217ac7bdeffba419987137db16f3a04',
+  'src': 'git@github.com:corleone113/buildroot.git' + '@' + '311832f6fab0abf5e8d75399acf9e1df69655b64',
 
    # Fuchsia compatibility
    #
